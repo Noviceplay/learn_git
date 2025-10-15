@@ -7,3 +7,7 @@ Some Description!
 git is cool, learning to use git hub for the first time
 
 Watching it for the first time
+
+## Local development
+
+1. Open index.html in your browser
